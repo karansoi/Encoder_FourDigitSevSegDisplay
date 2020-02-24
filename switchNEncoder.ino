@@ -1,3 +1,5 @@
+/*The rotary read is from https://www.best-microcontroller-projects.com/rotary-encoder.html 
+and   code for shaft switchis from www.diyusthad.com  */
 /*  Defines for encoder  and button(sw)*/
 
 #define CLK A0
